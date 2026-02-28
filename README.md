@@ -1,4 +1,4 @@
-# MathLove 🧮❤️
+# MathLove ❤️
 
 「ALL YOU NEED IS LOVE」——這是一個用 Swift 與 SwiftUI 打造的浪漫小專案，將生硬的數學算式化為愛意，在畫面上描繪出 **LOVE** 四個字母。
 
